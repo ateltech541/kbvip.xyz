@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='64.20.50.170';
-db_user='fenitunn_fenit';
-db_pass='@@@@Atel123456';
-db_name='fenitunn_fenit';
+db_host='209.159.145.77';
+db_user='kbvipxyz_panel';
+db_pass='@@Atel1234@@';
+db_name='kbvipxyz_panel';
 
 install_require()
 {
